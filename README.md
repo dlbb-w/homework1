@@ -1,5 +1,7 @@
 # homework1
-## q2.sh is answer of Question2
-
-## q3.sh is answer of Question3,
-first line is for Question3.1, second line is for Question3.2
+## q2.sh
+This is the bash script for Question2.
+## q3.sh
+This is the bash script for Question3,
+First line is for Question3.1, I put the result into q3_1.txt.
+Second line is for Question3.2, I put the result into q3_2.txt.
