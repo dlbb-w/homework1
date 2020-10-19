@@ -6,10 +6,8 @@ do
 	mkdir DDM$i;cd DDM$i
 	#create time_till_now.txt and edit it by EOF
 	cat>>./time_till_now.txt<<EOF
-#writing the content of this txt
 nanoseconds since 1970-01-01 00:00:00 UTC:
 <$(date +%s%N)>
-#finish the writing
 EOF
 #quit the directory
 cd
